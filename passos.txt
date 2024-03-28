@@ -1,0 +1,10 @@
+Configuração da conta local do GIT
+git config --global user.name gui777x
+git config --global user.email guizin.clementino@gmail.com
+
+Criar um projeto AspNet MVC
+dotnet new  mvc -o Pokedex
+
+Executar o projeto
+dotnet run
+dotnet watch run
