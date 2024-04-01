@@ -20,52 +20,52 @@
 
 <body>
     <header>
-        <div class="collapse bg-danger" id="navbarHeader">
+        <div class="collapse bg-light" id="navbarHeader">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-8 col-md-7 py-4">
-                        <h4 class="text-white">Sobre</h4>
-                        <p class="text-white">
+                        <h4 class="text-dark">Sobre</h4>
+                        <p class="text-dark">
                             Projeto desenvolvido para demonstrar a criação de páginas WEB com Net 6.0.
                             Demonstrar a criação de aplicações com padrão MVC e leitura de arquivos JSON,
                             além de boas práticas de Programação Orientada a Objetos, Páginas Dinâmicas e Uso de Sessão.
                         </p>
                     </div>
                     <div class="col-sm-4 offset-md-1 py-4">
-                        <h4 class="text-white">Contatos</h4>
+                        <h4 class="text-dark">Contatos</h4>
                         <ul class="list-unstyled">
-                            <li><a href="#" class="text-white">Follow on Twitter</a></li>
-                            <li><a href="#" class="text-white">Like on Facebook</a></li>
-                            <li><a href="#" class="text-white">E-mail</a></li>
+                            <li><a href="#" class="text-dark">Follow on Twitter</a></li>
+                            <li><a href="#" class="text-dark">Like on Facebook</a></li>
+                            <li><a href="#" class="text-dark">E-mail</a></li>
                         </ul>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="navbar navbar-dark bg-danger shadow-sm">
+        <div class="navbar navbar-light bg-light shadow-sm">
             <div class="container">
-                <a href="#" class="navbar-brand d-flex align-items-center">
+                <a href="#" class="navbar-brand d-flex align-items-center text-dark">
                     <img src="img/favicons/favicon-32x32.png" alt="Pokeball" class="me-2" />
-                    &nbsp;<strong>Filoastroux</strong>
+                    &nbsp;<strong>Filoastroux </strong>
                 </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader"
+                <button class="navbar-toggler text-dark" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader"
                     aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
+                    <span class="navbar-toggler-icon text-dark"></span>
                 </button>
             </div>
         </div>
     </header>
 
-    <main>
+    <main class="bg-dark">
         @RenderBody()
     </main>
 
-    <footer class="text-muted py-3 ">
+    <footer class="text-muted py-3 bg-dark">
         <div class="container">
             <p class="float-end">
                 <a href="#">
                     <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor"
-                        class="bi bi-arrow-up-circle-fill text-danger" viewBox="0 0 16 16">
+                        class="bi bi-arrow-up-circle-fill text-light" viewBox="0 0 16 16">
                         <path
                             d="M16 8A8 8 0 1 0 0 8a8 8 0 0 0 16 0zm-7.5 3.5a.5.5 0 0 1-1 0V5.707L5.354 7.854a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 5.707V11.5z" />
                     </svg>

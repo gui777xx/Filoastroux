@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Filoastroux.Models;
+using System.Text.Json;
 
 namespace Filoastroux.Controllers;
 
@@ -15,7 +16,13 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        return View();
+        List<Astrologia> astrologias = [];
+        using (StreamReader leitor = new("Data\\astrologia.json"))
+        {
+            string dados = leitor.ReadToEnd();
+            astrologias = JsonSerializer.Deserialize<List<Astrologia>>(dados);
+        }
+        return View(astrologias);
     }
 
     public IActionResult Privacy()
