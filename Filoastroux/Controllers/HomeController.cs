@@ -1,7 +1,7 @@
 using System.Diagnostics;
+using System.Text.Json;
 using Microsoft.AspNetCore.Mvc;
 using Filoastroux.Models;
-using System.Text.Json;
 
 namespace Filoastroux.Controllers;
 
