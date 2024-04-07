@@ -22,11 +22,11 @@ public class HomeController : Controller
             string dados = leitor.ReadToEnd();
             astrologias = JsonSerializer.Deserialize<List<Astrologia>>(dados);
         }
-        List<TIpo> tipos = [];
+        List<Tipo> tipos = [];
         using (StreamReader leitor = new("Data\\tipos.json"))
         {
             string dados = leitor.ReadToEnd();
-            tipos = JsonSerializer.Deserialize<List<TIpo>>(dados);
+            tipos = JsonSerializer.Deserialize<List<Tipo>>(dados);
         }
         ViewData["Tipos"] = tipos;
         return View(astrologias);

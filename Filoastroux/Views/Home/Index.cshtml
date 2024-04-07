@@ -2,6 +2,13 @@
 @{
     ViewData["Title"] = "Home";
     var tipos = (List<Tipo>)ViewData["Tipos"];
+    string Cor(string nome)
+    {
+        return tipos
+            .Where(t => t.Nome == nome)
+            .Select(t => t.Cor)
+            .FirstOrDefault();
+    }
 }
 
 <section class="pt-5 pb-3 text-center container bg-dark">
@@ -9,13 +16,14 @@
                 <div class="col mx-auto text-light">
                     <h1>Astrologia</h1>
                     <div class="group">
-                        <button id="btn-all" class="btn btn-md my-2 text-white bg-secondary btn-filter">
+                        <button id="btn-all" class="btn btn-md my-2 text-white bg-secondary bg-danger btn-filter">
                             Ver Todos
                         </button>
                         @foreach (var tipo in tipos)
                         {
                         <button id="btn-aço" class="btn btn-sm my-2 text-white btn-filter"
-                            style="background-color:#d711e9">Signo</button>
+                            style="background-color:@tipo.Cor">@tipo.Nome
+                            </button>
                         }
                     </div>
                 </div>
@@ -38,10 +46,10 @@
                                 <h3 class="card-title text-light">@astrologia.Nome</h3>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <div class="btn-group bg-dark">
-                                        @foreach (var tipos in astrologia.Tipo)
+                                        @foreach (var tipo in astrologia.Tipo)
                                         {
-                                            <a href="#" class="btn my-2 bg-dark text-light"
-                                                style="background-color: #000">@tipos</a>
+                                            <a href="#" class="btn my-2 bg-dark text-white"
+                                                style="background-color:@Cor(tipo)">@tipo</a>
                                         }
                                     </div>
                                 </div>
