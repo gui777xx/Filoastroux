@@ -4,71 +4,37 @@
     "Cor": "#D711E9"
   },
   {
-    "Nome": "Água",
+    "Nome": "Planetas",
     "Cor": "#39f"
   },
   {
-    "Nome": "Dragão",
+    "Nome": "Casas",
     "Cor": "#76e"
   },
   {
-    "Nome": "Elétrico",
+    "Nome": "Elementos",
     "Cor": "#fc3"
   },
   {
-    "Nome": "Fada",
+    "Nome": "Aspectos Planetarios",
     "Cor": "#e9e"
   },
   {
-    "Nome": "Fantasma",
+    "Nome": "Cruz Cardinal",
     "Cor": "#66b"
   },
   {
-    "Nome": "Fogo",
-    "Cor": "#f42"
+    "Nome": "Astros",
+    "Cor": "#66b"
   },
   {
-    "Nome": "Gelo",
-    "Cor": "#6cf"
-  },
+    "Nome": "Luminares",
+    "Cor": "#66b"
+  },  
   {
-    "Nome": "Inseto",
-    "Cor": "#ab6"
-  },
-  {
-    "Nome": "Lutador",
-    "Cor": "#b54"
-  },
-  {
-    "Nome": "Normal",
-    "Cor": "#aa9"
-  },
-  {
-    "Nome": "Pedra",
-    "Cor": "#ba6"
-  },
-  {
-    "Nome": "Planta",
-    "Cor": "#7c5"
-  },
-  {
-    "Nome": "Psíquico",
-    "Cor": "#f59"
-  },
-  {
-    "Nome": "Sombrio",
-    "Cor": "#754"
-  },
-  {
-    "Nome": "Terrestre",
-    "Cor": "#db5"
-  },
-  {
-    "Nome": "Venenoso",
-    "Cor": "#a59"
-  },
-  {
-    "Nome": "Voador",
-    "Cor": "#89f"
-  }
+    "Nome": "Alegorias",
+    "Cor": "#66b"
+  }  
+  
+  
 ]

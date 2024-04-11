@@ -38,7 +38,7 @@
                     @foreach (var astrologia in Model)
                     {
                     <!-- Card Pokemon - Inicio -->
-                    <div class="col">
+                    <div class="col" onclick="window.location = '/home/Details/@astrologia.Numero'">
                         <div class="card shadow-sm cursor-pointer @string.Join(' ',astrologia.Tipo)">
                             <img src="@astrologia.Imagem" class="card-img-top" width="100%" height="320" alt="@astrologia.Nome" />
                             <div class="card-body bg-dark">
@@ -48,7 +48,7 @@
                                     <div class="btn-group bg-dark">
                                         @foreach (var tipo in astrologia.Tipo)
                                         {
-                                            <a href="#" class="btn my-2 bg-dark text-white"
+                                            <a href="#" class="btn my-2  text-white"
                                                 style="background-color:@Cor(tipo)">@tipo</a>
                                         }
                                     </div>
