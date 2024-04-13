@@ -16,26 +16,43 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        List<Astrologia> astrologias = [];
-        using (StreamReader leitor = new("Data\\astrologia.json"))
-        {
-            string dados = leitor.ReadToEnd();
-            astrologias = JsonSerializer.Deserialize<List<Astrologia>>(dados);
-        }
-        List<Tipo> tipos = [];
-        using (StreamReader leitor = new("Data\\tipos.json"))
-        {
-            string dados = leitor.ReadToEnd();
-            tipos = JsonSerializer.Deserialize<List<Tipo>>(dados);
-        }
+        List<Astrologia> astrologias = GetAstrologias();
+        List<Tipo> tipos = GetTipos();
         ViewData["Tipos"] = tipos;
         return View(astrologias);
     }
 
     public IActionResult Details(int id)
     {
-        return View();
+        List<Astrologia> astrologias = GetAstrologias();
+        List<Tipo> tipos = GetTipos();
+        DetailsVM details = new() {
+            Tipos = tipos,
+            Atual = astrologias.FirstOrDefault(p => p.Numero == id),
+            Anterior = astrologias.OrderByDescending(p => p.Numero).FirstOrDefault(p => p.Numero < id),
+            Proximo = astrologias.OrderBy(p => p.Numero).FirstOrDefault(p => p.Numero > id), 
+        };
+        return View(details);
     }
+    
+    private List<Astrologia> GetAstrologias()
+    {
+        using (StreamReader leitor = new("Data\\astrologia.json"))
+        {
+            string dados = leitor.ReadToEnd();
+            return JsonSerializer.Deserialize<List<Astrologia>>(dados);
+        }
+    }
+
+    private List<Tipo> GetTipos()
+    {
+        using (StreamReader leitor = new("Data\\tipos.json"))
+        {
+            string dados = leitor.ReadToEnd();
+            return JsonSerializer.Deserialize<List<Tipo>>(dados);
+        }
+    }
+    
     public IActionResult Privacy()
     {
         return View();
