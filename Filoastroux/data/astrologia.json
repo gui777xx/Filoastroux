@@ -3,7 +3,6 @@
     "Numero": 1,
     "Nome": "Áries",
     "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
-    "Especie": "Seed",
     "Tipo": [ "Signo"] ,
     "Imagem": "\\img\\astrologias\\002.png"
   },
@@ -25,7 +24,6 @@
     "Numero": 4,
     "Nome": "Câncer",
     "Descricao": "Há um broto nas costas desse Pokémon. Para suportar seu peso, as pernas e o tronco de Ivysaur ficam grossos e fortes. Se começar a passar mais tempo deitado sob a luz do sol, é um sinal de que o broto florescerá em uma flor grande em breve.",
-    "Especie": "Seed",
     "Tipo": [ "Signo"],
     "Imagem": "\\img\\astrologias\\005.png"
   },
@@ -40,16 +38,13 @@
     "Numero": 6,
     "Nome": "Virgem",
     "Descricao": "Charizard voa pelo céu em busca de oponentes poderosos. Ele respira um calor tão grande que derrete qualquer coisa. No entanto, nunca dá um sopro ardente a qualquer oponente mais fraco que ele.",
-    "Especie": "Flame",
     "Tipo": [ "Signo" ],
-
     "Imagem": "\\img\\astrologias\\007.png"
   },
   {
     "Numero": 7,
     "Nome": "Libra",
     "Descricao": "A concha de Squirtle não é apenas usada para proteção. A forma arredondada da concha e as ranhuras na superfície ajudam a minimizar a resistência na , permitindo que este Pokémon nade em alta velocidade.",
-    "Especie": "Tiny Turtle",
     "Tipo": [ "Signo" ],
     "Imagem": "\\img\\astrologias\\008.png"
   },
@@ -57,7 +52,6 @@
     "Numero": 8,
     "Nome": "Escorpião",
     "Descricao": "Sua cauda é grande e coberta com um pêlo rico e grosso. A cauda torna-se cada vez mais profunda na cor à medida que Wartortle envelhece. Os arranhõees em sua concha são uma evidência da dureza deste Pokémon como um lutador.",
-    "Especie": "Turtle",
     "Tipo": [ "Signo" ],
     "Imagem": "\\img\\astrologias\\009.png"
   },
@@ -65,7 +59,6 @@
     "Numero": 9,
     "Nome": "Sagitário",
     "Descricao": "Blastoise tem bicos de  que se projetam de sua concha. Os bicos de  são muito precisos. Eles podem disparar balas de  com precisão suficiente para atingir latas vazias a uma distância de mais de metros.",
-    "Especie": "Shellfish",
     "Tipo": [ "Signo" ],
     "Imagem": "\\img\\astrologias\\010.png"
   },
@@ -73,16 +66,13 @@
     "Numero": 10,
     "Nome": "Capricórnio",
     "Descricao": "Caterpie tem um apetite voraz. Ele pode devorar folhas maiores que seu corpo diante dos seus olhos. De sua antena, este Pokémon libera um odor terrivelmente forte.",
-    "Especie": "Worm",
     "Tipo": [ "Signo" ],
-
     "Imagem": "\\img\\astrologias\\011.png"
   },
   {
     "Numero": 11,
     "Nome": "Aquário",
     "Descricao": "A concha que cobre o corpo deste Pokémon é tão dura quanto uma laje de ferro. Metapod não se move muito. Ele fica parado porque estã preparando suas entranhas suaves para a evolução dentro da casca dura.",
-    "Especie": "Cocoon",
     "Tipo": [ "Signo" ],
     "Imagem": "\\img\\astrologias\\012.png"
   },
@@ -90,136 +80,118 @@
     "Numero": 12,
     "Nome": "Peixes",
     "Descricao": "Butterfree tem uma capacidade superior para procurar mel delicioso de flores. Pode até procurar, extrair e transportar mel de flores que estão desabrochando a mais de 10 quilômetros do ninho.",
-    "Especie": "Butterfly",
     "Tipo": [ "Signo" ],
     "Imagem": "\\img\\astrologias\\001.png"
   },
   {
     "Numero": 13,
-    "Nome": "Sol",
+    "Nome": "Mercúrio",
     "Descricao": "Weedle tem um olfato extremamente agudo. Ele é capaz de distinguir seus tipos favoritos de folhas daqueles de que não gosta, apenas farejando com sua grande tromba vermelha (nariz).",
-    "Especie": "Hairy Bug",
-    "Tipo": [ "Planetas"],
+    "Tipo": [ "Astros"],
     "Imagem": "\\img\\astrologias\\013.png"
   },
   {
     "Numero": 14,
-    "Nome": "Lua",
+    "Nome": "Vênus",
     "Descricao": "Lua permanece praticamente imóvel enquanto se agarra a uma árvore. No entanto, por dentro, é extremamente ocupado, enquanto se prepara para a sua evolução futura. Isso é evidente pelo quão quente a concha fica ao ser tocada.",
-    "Especie": "Cocoon",
-    "Tipo": [ "Planetas"],
+    "Tipo": [ "Astros"],
     "Imagem": "\\img\\astrologias\\014.png"
   },
   {
     "Numero": 15,
-    "Nome": "Mercúrio",
+    "Nome": "Marte",
     "Descricao": "Mercurio é extremamente territorial. Ninguém deve se aproximar de seu ninho, isso é para sua própria segurança. Se irritados, eles atacarão em um enxame furioso.",
-    "Especie": "Poison Bee",
-    "Tipo": [ "Planetas"],
+    "Tipo": [ "Astros"],
     "Imagem": "\\img\\astrologias\\015.png"
   },
   {
     "Numero": 16,
-    "Nome": "Vênus",
+    "Nome": "Júpiter",
     "Descricao": "Pidgey tem um senso de direção extremamente nítido. Ela é capaz de voltar para o seu ninho de forma infalível, por mais longe que possa ser removida de seu ambiente familiar.",
-    "Especie": "Tiny Bird",
-    "Tipo": [ "Planetas"],
+    "Tipo": [ "Astros"],
     "Imagem": "\\img\\astrologias\\016.png"
   },
   {
     "Numero": 17,
-    "Nome": "Marte",
+    "Nome": "Saturno",
     "Descricao": "Pidgeotto reivindica uma grande área como seu próprio território. Este Pokémon voa, patrulhando seu espaço de vida. Se seu território é violado, não mostra piedade de punir completamente o inimigo com suas garras afiadas.",
-    "Especie": "Bird",
-    "Tipo": [ "Planetas" ],
+    "Tipo": [ "Astros" ],
     "Imagem": "\\img\\astrologias\\017.png"
   },
   {
     "Numero": 18,
-    "Nome": "Júpiter",
+    "Nome": "Urano",
     "Descricao": "Este Pokémon tem uma plumagem deslumbrante de penas maravilhosamente brilhantes. Muitos treinadores são cativados pela impressionante beleza das penas em sua cabeça, obrigando-os a escolher Pidgeot como seu Pokémon.",
-    "Especie": "Bird",
-    "Tipo": [ "Planetas" ],
+    "Tipo": [ "Astros" ],
     "Imagem": "\\img\\astrologias\\018.png"
   },
   {
     "Numero": 19,
-    "Nome": "Saturno",
+    "Nome": "Netuno",
     "Descricao": "Seus dentes crescem continuamente ao longo de sua vida. Se seus incisivos ficarem muito longos, esse Pokémon se torna incapaz de comer e morre de fome.",
-    "Especie": "Mouse",
-    "Tipo": [ "Planetas" ],
+    "Tipo": [ "Astros" ],
     "Imagem": "\\img\\astrologias\\019.png"
   },
   {
-    "Numero": 20,
+    "Numero": "Plutão",
     "Nome": "Urano",
     "Descricao": "As presas fortes de Raticate crescem constantemente. Para mantê-los triturados, roem pedras e troncos. Pode até mastigar as paredes das casas. Seus bigodes são essenciais para manter o seu equilíbrio. Não importa o quão amigável você seja, ele ficará com raiva e o morderá se tocar em seus bigodes.",
-    "Especie": "Mouse",
-    "Tipo": [ "Planetas" ],
+    "Tipo": [ "Astros" ],
     "Imagem": "\\img\\astrologias\\020.png"
   },
   {
     "Numero": 21,
-    "Nome": "Netuno",
-    "Descricao": "Seu grito alto pode ser ouvido a mais de 800 metros de distância. Se seu grito alto e agudo for ouvido ecoando por toda parte, é um sinal de que eles estão alertando um ao outro sobre o perigo.",
-    "Especie": "Tiny Bird",
-    "Tipo": [ "Planetas" ],
+    "Nome": "Fogo",
+    "Descricao": "elemento que representa Áries, Leão e Sagitário, elemento seco e quente, este é associado ao otimismo, criatividade, idealismo, dinamismo, coragem, determinação, perseverança, liderança e poder, mas também associado a agitação, impulsividade, arrogância, egoísmo, indiferença e a raiva que muito pode magoar aos outros, o elemento fogo é também associado ao temperamento colérico, sendo o fogo de polaridade Yang.",
+    "Tipo": [ "Elementos" ],
     "Imagem": "\\img\\astrologias\\021.png"
   },
   {
-    "Numero": 22,
-    "Nome": "Plutão",
-    "Descricao": "Não há nenhum problema em voar continuamente por um dia inteiro carregando uma carga pesada. O medo é reconhecido pelo pescoço longo e pelo bico alongado. Eles são convenientemente modelados para capturar presas no solo ou na . Ele habilmente move seu bico longo e magro para colher presas.",
-    "Especie": "Beak",
-    "Tipo": [ "Planetas" ],
+    "Numero": 20,
+    "Nome": "Terra",
+    "Descricao": "elemento de Touro, Virgem e Capricórnio, sendo um elemento frio e seco, voltado a introspecção, sensatez, sensibilidade, racionalidade, passividade e a empatia, do outro lado também há a ansiedade, o pessimismo, a teimosia e a rigidez, elemento de temperamento Melancólico, sendo de polaridade Yin.",
+    "Tipo": [ "Elementos" ],
     "Imagem": "\\img\\astrologias\\022.png"
   },
   {
     "Numero": 23,
-    "Nome": "Fogo",
-    "Descricao": "Fogo se enrola em espiral enquanto descansa. Assumindo essa posição, ele pode responder rapidamente a uma ameaça de qualquer direção com um brilho na cabeça erguida. Quanto mais velho fica, mais cresce. À noite, envolve seu corpo comprido em volta dos galhos das árvores para descansar.",
-    "Especie": "Snake",
-    "Tipo": [],
+    "Nome": "Água",
+    "Descricao": "elemento de Câncer, Escorpião e Peixes, elemento frio e úmido, elemento que diz sobre paciência, compassividade, empatia, sensibilidade emocional mais aguçada, calmaria, adaptabilidade, introspecção maior, tendem a transbordarem o que sentem, menor impulsividade, associado ao temperamento Fleumático, polaridade Yin.",
+    "Tipo": ["Elementos"],
     "Imagem": "\\img\\astrologias\\Alegoria.png"
   },
   {
     "Numero": 24,
-    "Nome": "Terra",
-    "Descricao": "Este Pokémon é terrivelmente forte para contrair as coisas com seu corpo. Pode até achatar tambores de óleo de aço. Uma vez que Arbok envolve seu corpo em torno de seu inimigo, é impossível escapar do abraço esmagador.",
-    "Especie": "Cobra",
-    "Tipo": [],
+    "Nome": "Ar",
+    "Descricao": "elemento dos signos de Gêmeos, Libra e Aquário, considerado quente e úmido, levado mais para a atividade, sociabilidade, animação, concentração, intelectualidade, mas também pode ser volátil, indisciplinado, tendência em não criar raízes, podem acreditar facilmente sem base e também criar e cair em suas próprias  ilusões e fantasias, de temperamento Sanguíneo e polaridade Yang.",
+    "Tipo": ["Elementos"],
     "Imagem": "\\img\\astrologias\\024.png"
   },
   {
     "Numero": 25,
     "Nome": "Água",
     "Descricao": "É de sua natureza armazenar eletricidade. Ele se sente estressado de vez em quando se não conseguir descarregar completamente sua eletricidade. É o mais popular de toda franquia Pokémon!",
-    "Especie": "Mouse",
-    "Tipo": [ "Elétrico" ],
+    "Tipo": [ "Elementos" ],
     "Imagem": "\\img\\astrologias\\025.png"
   },
   {
     "Numero": 26,
     "Nome": "Ar",
     "Descricao": "À medida que a eletricidade se acumula dentro de seu corpo, ela se torna mais agressiva. Uma teoria é que o acúmulo de eletricidade está realmente causando estresse.",
-    "Especie": "Mouse",
-    "Tipo": [ "Elétrico" ],
+    "Tipo": [ "Elementos" ],
     "Imagem": "\\img\\astrologias\\026.png"
   },
   {
     "Numero": 27,
     "Nome": "Sandshrew",
     "Descricao": "Sandshrew tem uma pele muito seca que é extremamente resistente. Ele pode rolar virando uma bola que repele qualquer ataque do inimigo. À noite, ele se enterra na areia do deserto para dormir.",
-    "Especie": "Mouse",
     "Tipo": [ "Terrestre" ],
-
     "Imagem": "\\img\\astrologias\\027.png"
   },
   {
     "Numero": 28,
     "Nome": "Sandslash",
     "Descricao": "O corpo do Sandslash é coberto por pontas duras, que são seções endurecidas de sua pele. Uma vez por ano, os picos antigos caem, para serem substituídos por novos picos que crescem por baixo dos antigos. Graças às suas garras grossas, é bom em escalar árvores. Existem muitos Sandslash que se estacionam nas árvores e vão dormir.",
-    "Especie": "Mouse",
     "Tipo": [ "Terrestre" ],
     "Imagem": "\\img\\astrologias\\028.png"
   },
@@ -227,7 +199,6 @@
     "Numero": 29,
     "Nome": "Nidoran F",
     "Descricao": "Suas farpas altamente tóxicas se desenvolveram como proteção para este Pokémon de corpo pequeno. Quando enfurecido, libera uma toxina horrível do chifre.",
-    "Especie": "Poison Pin",
     "Tipo": [],
     "Imagem": "\\img\\astrologias\\029.png"
   },
@@ -235,7 +206,6 @@
     "Numero": 30,
     "Nome": "Nidorina",
     "Descricao": "Quando Nidorina está com seus amigos ou familiares, eles mantêm suas farpas afastadas para evitar se machucar. Este Pokémon parece ficar nervoso se separado dos outros. A fêmea tem um temperamento suave. Emite gritos ultrassônicos que têm o poder de confundir os inimigos.",
-    "Especie": "Poison Pin",
     "Tipo": [],
     "Imagem": "\\img\\astrologias\\030.png"
   },
@@ -243,7 +213,6 @@
     "Numero": 31,
     "Nome": "Nidoqueen",
     "Descricao": "O corpo de Nidoqueen é envolvido em escamas extremamente duras. É hábil em enviar inimigos voando com agressões severas. Este Pokémon é mais forte quando defende seus filhotes. Se ficar excitada, as agulhas se arrepiam para fora.",
-    "Especie": "Drill",
     "Tipo": [],
     "Imagem": "\\img\\astrologias\\031.png"
   },
@@ -251,7 +220,6 @@
     "Numero": 32,
     "Nome": "Nidoran M",
     "Descricao": "O Nidoran macho desenvolveu músculos para mover seus ouvidos. Graças a eles, os ouvidos podem ser movidos livremente em qualquer direção. Mesmo o menor som não escapa à atenção deste Pokémon.",
-    "Especie": "Poison Pin",
     "Tipo": [],
     "Imagem": "\\img\\astrologias\\032.png"
   },
@@ -259,7 +227,6 @@
     "Numero": 33,
     "Nome": "Nidorino",
     "Descricao": "Seu chifre é mais duro que um diamante. Se sente uma presença hostil, todas as farpas nas costas se arrepiam de uma só vez e desafia o inimigo com toda a sua força. Ele tem uma disposição violenta e apunhala os inimigos com seu chifre, que exala veneno após o impacto.",
-    "Especie": "Poison Pin",
     "Tipo": [],
     "Imagem": "\\img\\astrologias\\033.png"
   },
@@ -267,7 +234,6 @@
     "Numero": 34,
     "Nome": "Nidoking",
     "Descricao": "A cauda grossa de Nidoking possui poder enormemente destrutivo. Com um balanço, pode derrubar uma torre de transmissão de metal. Uma vez que este Pokémon se enfurece, não há como detê-lo.",
-    "Especie": "Drill",
     "Tipo": [],
     "Imagem": "\\img\\astrologias\\034.png"
   },
@@ -275,7 +241,6 @@
     "Numero": 35,
     "Nome": "Clefairy",
     "Descricao": "Em todas as noites de lua cheia, eles saem para brincar. Quando o amanhecer chega, os cansados Clefairys dormem aninhados um no outro em montanhas profundas e tranquilas. Voa usando as asas nas costas para coletar o luar. Este Pokémon é difícil de ser encontrado.",
-    "Especie": "Fairy",
     "Tipo": [ "Fada" ],
 
     "Imagem": "\\img\\astrologias\\035.png"
@@ -284,7 +249,6 @@
     "Numero": 36,
     "Nome": "Clefable",
     "Descricao": "Clefable usa suas asas para pular levemente, como se estivesse voando. Seu passo saltitante permite que ele ande sobre a . Nas noites tranquilas e iluminadas pelo luar, passeia pelos lagos. Sua audição é tão aguda que pode ouvir um alfinete cair a mais de 800 metros de distância. Um tímido Pokémon de fada que raramente é visto, ele corre e se esconde a todo momento em que sente a presença de pessoas.",
-    "Especie": "Fairy",
     "Tipo": [ "Fada" ],
     "Imagem": "\\img\\astrologias\\036.png"
   }

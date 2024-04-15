@@ -4,10 +4,6 @@
     "Cor": "#D711E9"
   },
   {
-    "Nome": "Planetas",
-    "Cor": "#39f"
-  },
-  {
     "Nome": "Casas",
     "Cor": "#76e"
   },
@@ -25,7 +21,7 @@
   },
   {
     "Nome": "Astros",
-    "Cor": "#66b"
+    "Cor": "#39f"
   },
   {
     "Nome": "Luminares",
