@@ -133,8 +133,8 @@
     "Imagem": "\\img\\astrologias\\019.png"
   },
   {
-    "Numero": "Plutão",
-    "Nome": "Urano",
+    "Numero": 20,
+    "Nome": "Plutão",
     "Descricao": "As presas fortes de Raticate crescem constantemente. Para mantê-los triturados, roem pedras e troncos. Pode até mastigar as paredes das casas. Seus bigodes são essenciais para manter o seu equilíbrio. Não importa o quão amigável você seja, ele ficará com raiva e o morderá se tocar em seus bigodes.",
     "Tipo": [ "Astros" ],
     "Imagem": "\\img\\astrologias\\020.png"
@@ -158,7 +158,7 @@
     "Nome": "Água",
     "Descricao": "elemento de Câncer, Escorpião e Peixes, elemento frio e úmido, elemento que diz sobre paciência, compassividade, empatia, sensibilidade emocional mais aguçada, calmaria, adaptabilidade, introspecção maior, tendem a transbordarem o que sentem, menor impulsividade, associado ao temperamento Fleumático, polaridade Yin.",
     "Tipo": ["Elementos"],
-    "Imagem": "\\img\\astrologias\\Alegoria.png"
+    "Imagem": "\\img\\astrologias\\023.png"
   },
   {
     "Numero": 24,
@@ -169,87 +169,199 @@
   },
   {
     "Numero": 25,
-    "Nome": "Água",
+    "Nome": "Casa 1",
     "Descricao": "É de sua natureza armazenar eletricidade. Ele se sente estressado de vez em quando se não conseguir descarregar completamente sua eletricidade. É o mais popular de toda franquia Pokémon!",
-    "Tipo": [ "Elementos" ],
+    "Tipo": [ "Casas" ],
     "Imagem": "\\img\\astrologias\\025.png"
   },
   {
     "Numero": 26,
-    "Nome": "Ar",
+    "Nome": "Casa 2",
     "Descricao": "À medida que a eletricidade se acumula dentro de seu corpo, ela se torna mais agressiva. Uma teoria é que o acúmulo de eletricidade está realmente causando estresse.",
-    "Tipo": [ "Elementos" ],
+    "Tipo": [ "Casas" ],
     "Imagem": "\\img\\astrologias\\026.png"
   },
   {
     "Numero": 27,
-    "Nome": "Sandshrew",
+    "Nome": "Casa 3",
     "Descricao": "Sandshrew tem uma pele muito seca que é extremamente resistente. Ele pode rolar virando uma bola que repele qualquer ataque do inimigo. À noite, ele se enterra na areia do deserto para dormir.",
-    "Tipo": [ "Terrestre" ],
+    "Tipo": [ "Casas" ],
     "Imagem": "\\img\\astrologias\\027.png"
   },
   {
     "Numero": 28,
-    "Nome": "Sandslash",
+    "Nome": "Casa 4",
     "Descricao": "O corpo do Sandslash é coberto por pontas duras, que são seções endurecidas de sua pele. Uma vez por ano, os picos antigos caem, para serem substituídos por novos picos que crescem por baixo dos antigos. Graças às suas garras grossas, é bom em escalar árvores. Existem muitos Sandslash que se estacionam nas árvores e vão dormir.",
-    "Tipo": [ "Terrestre" ],
+    "Tipo": [ "Casas" ],
     "Imagem": "\\img\\astrologias\\028.png"
   },
   {
     "Numero": 29,
-    "Nome": "Nidoran F",
+    "Nome": "Casa 5",
     "Descricao": "Suas farpas altamente tóxicas se desenvolveram como proteção para este Pokémon de corpo pequeno. Quando enfurecido, libera uma toxina horrível do chifre.",
-    "Tipo": [],
+    "Tipo": [ "Casas"],
     "Imagem": "\\img\\astrologias\\029.png"
   },
   {
     "Numero": 30,
-    "Nome": "Nidorina",
+    "Nome": "Casa 6",
     "Descricao": "Quando Nidorina está com seus amigos ou familiares, eles mantêm suas farpas afastadas para evitar se machucar. Este Pokémon parece ficar nervoso se separado dos outros. A fêmea tem um temperamento suave. Emite gritos ultrassônicos que têm o poder de confundir os inimigos.",
-    "Tipo": [],
+    "Tipo": [ "Casas"],
     "Imagem": "\\img\\astrologias\\030.png"
   },
   {
     "Numero": 31,
-    "Nome": "Nidoqueen",
+    "Nome": "Casa 7",
     "Descricao": "O corpo de Nidoqueen é envolvido em escamas extremamente duras. É hábil em enviar inimigos voando com agressões severas. Este Pokémon é mais forte quando defende seus filhotes. Se ficar excitada, as agulhas se arrepiam para fora.",
-    "Tipo": [],
+    "Tipo": ["Casas"],
     "Imagem": "\\img\\astrologias\\031.png"
   },
   {
     "Numero": 32,
-    "Nome": "Nidoran M",
+    "Nome": "casa 8",
     "Descricao": "O Nidoran macho desenvolveu músculos para mover seus ouvidos. Graças a eles, os ouvidos podem ser movidos livremente em qualquer direção. Mesmo o menor som não escapa à atenção deste Pokémon.",
-    "Tipo": [],
+    "Tipo": ["Casas"],
     "Imagem": "\\img\\astrologias\\032.png"
   },
   {
     "Numero": 33,
-    "Nome": "Nidorino",
+    "Nome": "Casa 9",
     "Descricao": "Seu chifre é mais duro que um diamante. Se sente uma presença hostil, todas as farpas nas costas se arrepiam de uma só vez e desafia o inimigo com toda a sua força. Ele tem uma disposição violenta e apunhala os inimigos com seu chifre, que exala veneno após o impacto.",
-    "Tipo": [],
+    "Tipo": ["Casas"],
     "Imagem": "\\img\\astrologias\\033.png"
   },
   {
     "Numero": 34,
-    "Nome": "Nidoking",
+    "Nome": "Casa 10",
     "Descricao": "A cauda grossa de Nidoking possui poder enormemente destrutivo. Com um balanço, pode derrubar uma torre de transmissão de metal. Uma vez que este Pokémon se enfurece, não há como detê-lo.",
-    "Tipo": [],
+    "Tipo": [ "Casas"],
     "Imagem": "\\img\\astrologias\\034.png"
   },
   {
     "Numero": 35,
-    "Nome": "Clefairy",
+    "Nome": "Casa 11",
     "Descricao": "Em todas as noites de lua cheia, eles saem para brincar. Quando o amanhecer chega, os cansados Clefairys dormem aninhados um no outro em montanhas profundas e tranquilas. Voa usando as asas nas costas para coletar o luar. Este Pokémon é difícil de ser encontrado.",
-    "Tipo": [ "Fada" ],
+    "Tipo": [ "Casas" ],
 
     "Imagem": "\\img\\astrologias\\035.png"
   },
   {
     "Numero": 36,
-    "Nome": "Clefable",
-    "Descricao": "Clefable usa suas asas para pular levemente, como se estivesse voando. Seu passo saltitante permite que ele ande sobre a . Nas noites tranquilas e iluminadas pelo luar, passeia pelos lagos. Sua audição é tão aguda que pode ouvir um alfinete cair a mais de 800 metros de distância. Um tímido Pokémon de fada que raramente é visto, ele corre e se esconde a todo momento em que sente a presença de pessoas.",
-    "Tipo": [ "Fada" ],
+    "Nome": "Casa 12",
+    "Descricao": "Clefable usa suas asas para pular levemente, como se estivesse voando. Seu passo saltitante permite que ele ande sobre a . Nas noites tranquilas e iluminadas pelo luar, passeia pelos lagos. Sua audição é tão aguda que pode ouvir um alfinete cair a mais de 800 metros de distância. Um tímido Pokémon de  que raramente é visto, ele corre e se esconde a todo momento em que sente a presença de pessoas.",
+    "Tipo": [ "Casas" ],
     "Imagem": "\\img\\astrologias\\036.png"
+  },
+  {
+    "Numero": 37,
+    "Nome": "Cruz Cardinau",
+    "Descricao": "Clefable usa suas asas para pular levemente, como se estivesse voando. Seu passo saltitante permite que ele ande sobre a . Nas noites tranquilas e iluminadas pelo luar, passeia pelos lagos. Sua audição é tão aguda que pode ouvir um alfinete cair a mais de 800 metros de distância. Um tímido Pokémon de  que raramente é visto, ele corre e se esconde a todo momento em que sente a presença de pessoas.",
+    "Tipo": [ "Cruz Cardinal" ],
+    "Imagem": "\\img\\astrologias\\037.png"
+  },
+  {
+    "Numero": 38,
+    "Nome": "Oposição",
+    "Descricao": "Clefable usa suas asas para pular levemente, como se estivesse voando. Seu passo saltitante permite que ele ande sobre a . Nas noites tranquilas e iluminadas pelo luar, passeia pelos lagos. Sua audição é tão aguda que pode ouvir um alfinete cair a mais de 800 metros de distância. Um tímido Pokémon de  que raramente é visto, ele corre e se esconde a todo momento em que sente a presença de pessoas.",
+    "Tipo": [ "Aspectos Planetarios" ],
+    "Imagem": "\\img\\astrologias\\038.png"
+  },
+  {
+    "Numero": 38,
+    "Nome": "Quadratura ",
+    "Descricao": "Clefable usa suas asas para pular levemente, como se estivesse voando. Seu passo saltitante permite que ele ande sobre a . Nas noites tranquilas e iluminadas pelo luar, passeia pelos lagos. Sua audição é tão aguda que pode ouvir um alfinete cair a mais de 800 metros de distância. Um tímido Pokémon de  que raramente é visto, ele corre e se esconde a todo momento em que sente a presença de pessoas.",
+    "Tipo": [ "Aspectos Planetarios" ],
+    "Imagem": "\\img\\astrologias\\039.png"
+  },
+  {
+    "Numero": 39,
+    "Nome": "Quincúncio ",
+    "Descricao": "Clefable usa suas asas para pular levemente, como se estivesse voando. Seu passo saltitante permite que ele ande sobre a . Nas noites tranquilas e iluminadas pelo luar, passeia pelos lagos. Sua audição é tão aguda que pode ouvir um alfinete cair a mais de 800 metros de distância. Um tímido Pokémon de  que raramente é visto, ele corre e se esconde a todo momento em que sente a presença de pessoas.",
+    "Tipo": [ "Aspectos Planetarios" ],
+    "Imagem": "\\img\\astrologias\\040.png"
+  },
+  {
+    "Numero": 40,
+    "Nome": "Quincúncio  ",
+    "Descricao": "Clefable usa suas asas para pular levemente, como se estivesse voando. Seu passo saltitante permite que ele ande sobre a . Nas noites tranquilas e iluminadas pelo luar, passeia pelos lagos. Sua audição é tão aguda que pode ouvir um alfinete cair a mais de 800 metros de distância. Um tímido Pokémon de  que raramente é visto, ele corre e se esconde a todo momento em que sente a presença de pessoas.",
+    "Tipo": [ "Aspectos Planetarios" ],
+    "Imagem": "\\img\\astrologias\\040.png"
+  },
+  {
+    "Numero": 41,
+    "Nome": "Quíntil  ",
+    "Descricao": "Clefable usa suas asas para pular levemente, como se estivesse voando. Seu passo saltitante permite que ele ande sobre a . Nas noites tranquilas e iluminadas pelo luar, passeia pelos lagos. Sua audição é tão aguda que pode ouvir um alfinete cair a mais de 800 metros de distância. Um tímido Pokémon de  que raramente é visto, ele corre e se esconde a todo momento em que sente a presença de pessoas.",
+    "Tipo": [ "Aspectos Planetarios" ],
+    "Imagem": "\\img\\astrologias\\041.png"
+  },
+  {
+    "Numero": 42,
+    "Nome": "semiquadratura  ",
+    "Descricao": "Clefable usa suas asas para pular levemente, como se estivesse voando. Seu passo saltitante permite que ele ande sobre a . Nas noites tranquilas e iluminadas pelo luar, passeia pelos lagos. Sua audição é tão aguda que pode ouvir um alfinete cair a mais de 800 metros de distância. Um tímido Pokémon de  que raramente é visto, ele corre e se esconde a todo momento em que sente a presença de pessoas.",
+    "Tipo": [ "Aspectos Planetarios" ],
+    "Imagem": "\\img\\astrologias\\042.png"
+  },
+  {
+    "Numero": 43,
+    "Nome": "semisextil  ",
+    "Descricao": "Clefable usa suas asas para pular levemente, como se estivesse voando. Seu passo saltitante permite que ele ande sobre a . Nas noites tranquilas e iluminadas pelo luar, passeia pelos lagos. Sua audição é tão aguda que pode ouvir um alfinete cair a mais de 800 metros de distância. Um tímido Pokémon de  que raramente é visto, ele corre e se esconde a todo momento em que sente a presença de pessoas.",
+    "Tipo": [ "Aspectos Planetarios" ],
+    "Imagem": "\\img\\astrologias\\043.png"
+  },
+  {
+    "Numero": 44,
+    "Nome": "Sesquiquadratura   ",
+    "Descricao": "Clefable usa suas asas para pular levemente, como se estivesse voando. Seu passo saltitante permite que ele ande sobre a . Nas noites tranquilas e iluminadas pelo luar, passeia pelos lagos. Sua audição é tão aguda que pode ouvir um alfinete cair a mais de 800 metros de distância. Um tímido Pokémon de  que raramente é visto, ele corre e se esconde a todo momento em que sente a presença de pessoas.",
+    "Tipo": [ "Aspectos Planetarios" ],
+    "Imagem": "\\img\\astrologias\\044.png"
+  },
+  {
+    "Numero": 45,
+    "Nome": "Sextil    ",
+    "Descricao": "Clefable usa suas asas para pular levemente, como se estivesse voando. Seu passo saltitante permite que ele ande sobre a . Nas noites tranquilas e iluminadas pelo luar, passeia pelos lagos. Sua audição é tão aguda que pode ouvir um alfinete cair a mais de 800 metros de distância. Um tímido Pokémon de  que raramente é visto, ele corre e se esconde a todo momento em que sente a presença de pessoas.",
+    "Tipo": [ "Aspectos Planetarios" ],
+    "Imagem": "\\img\\astrologias\\045.png"
+  },
+  {
+    "Numero": 46,
+    "Nome": "Trígono ",
+    "Descricao": "Clefable usa suas asas para pular levemente, como se estivesse voando. Seu passo saltitante permite que ele ande sobre a . Nas noites tranquilas e iluminadas pelo luar, passeia pelos lagos. Sua audição é tão aguda que pode ouvir um alfinete cair a mais de 800 metros de distância. Um tímido Pokémon de  que raramente é visto, ele corre e se esconde a todo momento em que sente a presença de pessoas.",
+    "Tipo": [ "Aspectos Planetarios" ],
+    "Imagem": "\\img\\astrologias\\046.png"
+  },
+  {
+    "Numero": 47,
+    "Nome": "Quiron ",
+    "Descricao": "Clefable usa suas asas para pular levemente, como se estivesse voando. Seu passo saltitante permite que ele ande sobre a . Nas noites tranquilas e iluminadas pelo luar, passeia pelos lagos. Sua audição é tão aguda que pode ouvir um alfinete cair a mais de 800 metros de distância. Um tímido Pokémon de  que raramente é visto, ele corre e se esconde a todo momento em que sente a presença de pessoas.",
+    "Tipo": [ "Alegorias" ],
+    "Imagem": "\\img\\astrologias\\047.png"
+  },
+  {
+    "Numero": 48,
+    "Nome": "LIlht ",
+    "Descricao": "Clefable usa suas asas para pular levemente, como se estivesse voando. Seu passo saltitante permite que ele ande sobre a . Nas noites tranquilas e iluminadas pelo luar, passeia pelos lagos. Sua audição é tão aguda que pode ouvir um alfinete cair a mais de 800 metros de distância. Um tímido Pokémon de  que raramente é visto, ele corre e se esconde a todo momento em que sente a presença de pessoas.",
+    "Tipo": [ "Alegorias" ],
+    "Imagem": "\\img\\astrologias\\048.png"
+  },
+  {
+    "Numero": 49,
+    "Nome": "Nodo Lunar ",
+    "Descricao": "Clefable usa suas asas para pular levemente, como se estivesse voando. Seu passo saltitante permite que ele ande sobre a . Nas noites tranquilas e iluminadas pelo luar, passeia pelos lagos. Sua audição é tão aguda que pode ouvir um alfinete cair a mais de 800 metros de distância. Um tímido Pokémon de  que raramente é visto, ele corre e se esconde a todo momento em que sente a presença de pessoas.",
+    "Tipo": [ "Alegorias" ],
+    "Imagem": "\\img\\astrologias\\049.png"
+  },
+  {
+    "Numero": 50,
+    "Nome": "Lua",
+    "Descricao": "Clefable usa suas asas para pular levemente, como se estivesse voando. Seu passo saltitante permite que ele ande sobre a . Nas noites tranquilas e iluminadas pelo luar, passeia pelos lagos. Sua audição é tão aguda que pode ouvir um alfinete cair a mais de 800 metros de distância. Um tímido Pokémon de  que raramente é visto, ele corre e se esconde a todo momento em que sente a presença de pessoas.",
+    "Tipo": [ "Luminares" ],
+    "Imagem": "\\img\\astrologias\\050.png"
+  },
+  {
+    "Numero": 51,
+    "Nome": "Sol ",
+    "Descricao": "Clefable usa suas asas para pular levemente, como se estivesse voando. Seu passo saltitante permite que ele ande sobre a . Nas noites tranquilas e iluminadas pelo luar, passeia pelos lagos. Sua audição é tão aguda que pode ouvir um alfinete cair a mais de 800 metros de distância. Um tímido Pokémon de  que raramente é visto, ele corre e se esconde a todo momento em que sente a presença de pessoas.",
+    "Tipo": [ "Luminares" ],
+    "Imagem": "\\img\\astrologias\\051.png"
   }
 ]
